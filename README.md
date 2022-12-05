@@ -6,7 +6,7 @@
 
 ## デプロイ先
 
-https://idaten-hack.github.io/team-generator/
+https://ikoma1234.github.io/team-generator/
 
 ## 動作デモ
 
